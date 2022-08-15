@@ -98,3 +98,4 @@ ENV/
 # data
 *_results.tsv
 *.out
+outputs/kbert_bookreview_CnDbpedia.bin
